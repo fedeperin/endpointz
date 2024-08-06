@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Plus from '$assets/Plus.svg'
+  import Plus from '$assets/plus.svg'
 </script>
 
 <a href="../dashboard/new">
